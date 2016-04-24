@@ -12,7 +12,7 @@ url='http://apricityos.com'
 license=('GPL')
 install="${pkgname}.install"
 source=('apricity-keyring.tar.gz')
-sha256sums=('e0efe7a7e458ce00675407177a88ca69a37077012f84a86eb90c79fe52488b21')
+sha256sums=('2d50240ebd175999a07f54dd8371135567b4147ca02d726018f5520fb2e374ea')
 
 package() {
 	#cd "${srcdir}/${pkgname}-${pkgver}"
